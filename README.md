@@ -1,8 +1,15 @@
 # flutter_loginsignupsample
 
-# Home
+## Home
 
 ![alt text](https://github.com/nikita67nikita/FlutterLoginSignup/blob/master/Screenshots/HomeScreen.PNG)
+
+## Login
+![alt text](https://github.com/nikita67nikita/FlutterLoginSignup/blob/master/Screenshots/LoginScreen.PNG)
+
+## Signup
+
+![alt text](https://github.com/nikita67nikita/FlutterLoginSignup/blob/master/Screenshots/SignupScreen.PNG)
 
 
 A new Flutter project.
